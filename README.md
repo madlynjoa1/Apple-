@@ -1,3 +1,5 @@
+<h1>HACKNYU 2019</h1>
+
 ## Inspiration
 In today's world, it is hard to keep track of subscriptions and know how much you spend monthly in total. Do you know how much you spend on Netflix, HBO, Amazon, Pandora, Spotify, makeup, etc? Did you ever pay for subscriptions you forgot to cancel?
 Our team came up with this chrome extension to help users make budgeting easier.
