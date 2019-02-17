@@ -1,11 +1,12 @@
 <h1>HACKNYU 2019</h1>
+https://devpost.com/software/subtrakt
 
 ## Inspiration
 In today's world, it is hard to keep track of subscriptions and know how much you spend monthly in total. Do you know how much you spend on Netflix, HBO, Amazon, Pandora, Spotify, makeup, etc? Did you ever pay for subscriptions you forgot to cancel?
 Our team came up with this chrome extension to help users make budgeting easier.
 
 ## What it does
-SubTract automatically scrapes billing data from services you subscribe to and reminds you when your payments are due and displays whether your subscriptions are free/paid.
+SubTract automatically scrapes billing data from services you subscribe to, reminds you when your payments are due and displays whether your subscriptions are free/paid. SubTract provides an innovated way to save money and being financially responsible.
 
 ## How we built it
 Our team created a chrome extension using HTML, CSS, js, and Chrome-built in storage API
